@@ -8,7 +8,7 @@ Player need to click on the cards.
 1. If the open cards indicate the same picture, they stay opened. 
 2. If there are different picture on the open cards, the cards are to be turned face down again and left on the field.
 
-[demo](img/demo.gif)  
+![demo](https://github.com/Kuldyaev/memorygame/blob/master/img/demo.gif)  
 
 
 
