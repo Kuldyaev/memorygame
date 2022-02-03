@@ -1,4 +1,4 @@
-Matching Game is the prodject in **UDACITY** WEB-Developer course.
+Matching Game is the project in **UDACITY** WEB-Developer course.
 
 
 **Rules**
